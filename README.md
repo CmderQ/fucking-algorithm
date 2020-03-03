@@ -28,6 +28,14 @@ English translation is processing on [english branch](https://github.com/labulad
 
 其他的先不多说了，直接上干货吧，我们一起日穿 LeetCode，感受一下支配算法的乐趣。
 
+**PS：如果仅是 clone 此仓库学习（不是参与翻译工作）的话，请使用如下 Git 命令**：
+
+```shell
+git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
+```
+
+这样会限制 clone 的深度，不会下载 Git 协作的历史记录，可以极大加快下载速度。
+
 # 目录
 
 * 第零章、必读系列
@@ -114,6 +122,15 @@ English translation is processing on [english branch](https://github.com/labulad
   * [加密算法的前身今世](技术/密码技术.md)
   * [Git/SQL/正则表达式的在线练习平台](技术/在线练习平台.md)
 
+# 感谢如下大佬参与翻译
+
+按照昵称字典序排名：
+
+[ABCpril](https://github.com/ABCpril), [build2645](https://github.com/build2645), [CarrieOn](https://github.com/CarrieOn), [Hi_archer](https://hiarcher.top/), [Iruze](https://github.com/Iruze), [Justin](https://github.com/Justin-YGG), [Lrc123](https://github.com/Lrc123), [Master-cai](https://github.com/Master-cai), [miaoxiaozui2017](https://github.com/miaoxiaozui2017), [nettee](https://github.com/nettee), [PaperJets](https://github.com/PaperJets), [SCUhzs](https://github.com/HuangZiSheng001), [Seaworth](https://github.com/Seaworth), [sinjoywong](https://blog.csdn.net/SinjoyWong), [Tianhao Zhou](https://github.com/tianhaoz95), [wadegrc](https://github.com/wadegrc), [walsvid](https://github.com/walsvid), [warmingkkk](https://github.com/warmingkkk), [wsyzxxxx](https://github.com/wsyzxxxx), [youyun](https://github.com/youyun), [Zero](https://github.com/Mr2er0), [Ziming](https://github.com/ML-ZimingMeng/LeetCode-Python3)
+
+
 # Donate
+
+如果本仓库对你有帮助，可以请作者喝杯速溶咖啡
 
 <img src="pictures/pay.jpg" width = "216" height = "300" alt="brutal" align=center />
